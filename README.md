@@ -8,7 +8,8 @@ In this exploration, we're going to delve into the Multiverse of Spider-Men usin
 
 And now, behold the Multiverse in all its glory!
 
-![Multiverse](path/to/multiverse.png)
+# Daniel Library - South Carolina
+![Multiverse](images/Library.jpeg)
 
 Feel free to explore the depths of the Multiverse with these amazing Spider-Men:
 
