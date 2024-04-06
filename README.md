@@ -12,9 +12,9 @@ And now, behold the Multiverse in all its glory!
 
 Feel free to explore the depths of the Multiverse with these amazing Spider-Men:
 
-1. ![Spider-Man 1](path/to/spiderman1.png)
-2. ![Spider-Man 2](path/to/spiderman2.png)
-3. ![Spider-Man 3](path/to/spiderman3.png)
-4. ![Spider-Man 4](path/to/spiderman4.png)
+1. ![Spider-Man 1](images/Castle.jpeg)
+2. ![Spider-Man 2](images/Linked1.jpeg)
+3. ![Spider-Man 3](images/Linked2.jpeg)
+4. ![Spider-Man 4](images/Linked3.jpeg)
 
 Now, fellow adventurers, armed with this knowledge, go forth and traverse the Multiverse of Spider-Men with confidence!
